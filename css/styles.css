@@ -1,0 +1,19 @@
+ html,
+ body {
+     height: 100%;
+     margin: 0;
+     padding: 0;
+ }
+ h1 {
+ 	color: #D64668;
+ }
+ 
+ #map {
+     height: 100%;
+ }
+
+.infowin{
+	width: 100px;
+	height: 45px;
+	color: #D64668;
+}
